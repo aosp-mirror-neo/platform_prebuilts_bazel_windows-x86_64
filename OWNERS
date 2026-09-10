@@ -1,4 +1,4 @@
+include tools/vendor/adt_infra_internal:/OWNERS
+
 bohu@google.com
 jansene@google.com
-tomrenn@google.com
-zachyu@google.com
